@@ -1,5 +1,4 @@
-# Spurt
-[![Go](https://github.com/DDoS-Leaks/Sharkc2p-DDoS/workflows/Go/badge.svg)](https://github.com/DDoS-Leaks/Sharkc2p-DDoS/actions?query=workflow%3A%22Go%22)
+# sharkc2p
 
 Sharkc2p is a powerful testing tool designed to simulate high volumes of traffic and evaluate the performance and resilience of web servers.
 
